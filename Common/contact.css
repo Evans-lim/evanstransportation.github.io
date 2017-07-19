@@ -1,0 +1,81 @@
+body
+{
+        background-image: url("background.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+fieldset
+{
+	border:5px inset rgb(255,255,180);
+	background-color:white;
+	margin:10px 10px 10px 0px; 
+	padding:10px;
+	opacity: 0.8;
+}
+
+#leftCol        
+{
+	width: 630px;
+	height: 410px;
+	float: left;
+	font-size: 18px;
+	padding-left: 150px;
+}
+
+#googlemap
+{
+	padding-left: 800px;
+}
+
+button
+{
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+	border-radius:10px;
+}
+
+footer
+{
+	background-color: grey;
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 60%;
+	text-align: center;
+	padding: 10px;
+}
+
+h3
+{
+	color: purple;
+	font-size: 110%;
+}
+
+#img1
+{
+	border:10px inset rgb(255,255,255);
+	border-radius:15px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 920px;
+	height: 130px;
+}
+
+a.contact
+{
+	font-size: 120%;
+	border:4px inset rgb(255,255,255);
+	background-color: white;
+	padding:0px;
+	border-style: solid;
+}
+
+h2
+{	
+	color: white;
+	font-size: 140%;
+	text-align: center;
+}

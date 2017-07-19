@@ -1,0 +1,102 @@
+body
+{
+        background-image: url("background.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+#header1
+{
+	color: black;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 250%;
+	border-style: dotted;
+	padding:0px;
+        margin-left: auto;
+        margin-right: auto;
+	text-align: center;
+	background-color: white;
+}
+
+#intro
+{
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 150%;
+	margin-left: auto;
+        margin-right: auto;
+	text-align: center;
+	padding:10px;
+	opacity: 2.0;
+}
+
+h1
+{
+	border-style: dotted;
+	padding:8px;
+	background-color: #737CA1;
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 250%;
+	text-align: center;
+	opacity: 1.1;
+        filter: alpha(opacity=40);
+}
+
+
+button
+{
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+	border-radius:10px;
+}
+
+footer
+{
+	background-color: grey;
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 60%;
+	text-align: center;
+	padding: 10px;
+}
+
+a.contact
+{
+	font-size: 150%;
+	border:4px inset rgb(255,255,255);
+	background-color: white;
+	padding:0px;
+	border-style: solid;
+}
+
+p1
+{
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 150%;
+	text-align: center;
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+#img1
+{
+	border:15px inset rgb(255,255,255);
+	border-radius:40px;
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	height: 330px;
+}
+
+#audio
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

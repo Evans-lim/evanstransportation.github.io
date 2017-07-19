@@ -1,0 +1,142 @@
+body
+{
+    background-image: url("background.jpg");
+    background-attachment: fixed;
+	background-size: cover;
+}
+
+h
+{
+	border:2px inset rgb(255,255,255);
+	background-color: B9EDFF;
+	color: purple;
+	font-size: 220%;
+	font-weight: bold;
+	text-align: center;
+	opacity: 2.0;
+        filter: alpha(opacity=40);
+}
+
+h3
+{
+	background-color: silver;
+	color: black;
+	font-size: 160%;
+	font-weight: bold;
+	text-align: center;
+	opacity: 0.9;
+        filter: alpha(opacity=40);
+	border-radius: 8px;
+	margin-left: 250px;
+   	margin-right: 250px;
+}
+
+h1
+{	
+	color: white;
+	font-size: 140%;
+	text-align: center;
+}
+
+#one
+{
+	border:6px inset rgb(255,255,255);
+	border-style: dotted;
+	width: 300px;
+	height:200px;
+	border-radius:10px;
+}
+
+#two
+{
+	border:3px inset rgb(255,255,255);
+	border-style: dotted;
+	width: 350px;
+	height:220px;
+	border-radius:5px;
+}
+
+button
+{
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+	border-radius:10px;
+}
+
+p.end
+{
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 100%;
+	text-align: center;
+	display: block;
+    	margin-left: auto;
+   	margin-right: auto;
+}
+
+a.contact
+{
+	font-size: 120%;
+	border:4px inset rgb(255,255,255);
+	background-color: white;
+	padding:0px;
+	border-style: solid;
+}
+
+#text
+{
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 130%;
+	text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+footer
+{
+	background-color: grey;
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 60%;
+	text-align: center;
+	padding: 10px;
+}
+
+table
+{
+	border-collapse: collapse;
+	text-align: center;
+}
+
+table, th, td
+{
+	border: 5px outset blue;
+}
+
+th
+{
+	height : 5px;
+	vertical-align : bottom;
+	color : black;
+	font-size : 17pt;
+	background-color : silver;
+}
+
+td
+{
+	color:purple;
+	font-size:15pt;
+	padding:8px;
+	text-align : center;
+}
+
+li
+{
+	font-size:12pt;
+	padding:8px;
+	text-align: left;
+        margin-left: 250px;
+        margin-right: 200px;
+}

@@ -1,0 +1,98 @@
+body{
+	background-image: url("background.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+legend{
+	font-size:22pt;
+	color:red;
+	font-weight:bold;
+}
+
+Label{
+	width:180px;
+	display:inline-block;
+	font-size:20px;
+	color:blue;
+}
+
+#one{
+	background-color:white;
+	width:250px;
+	height:18px;
+	display:inline-block;
+	font-size:14px;
+	color:black;
+}
+
+input{
+	width:100px;
+	height:20px;
+	font-size: 30px;
+	diplay:inline-block;
+	font-size:16px;
+	color:blue;
+}
+
+select{
+	width:120px;
+	height:25px;
+	diplay:inline-block;
+}
+
+textarea{
+	background-color:white;
+	color: black;
+	width:600px;
+	height:80px;
+	diplay:inline-block;
+}
+
+input[type=check=box],input[type=radio]
+{
+	width:10px;
+}
+
+button
+{
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+	border-radius:10px;
+}
+
+footer
+{
+	background-color: grey;
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 60%;
+	text-align: center;
+	padding: 10px;
+}
+
+a.contact
+{
+	font-size: 120%;
+	border:4px inset rgb(255,255,255);
+	background-color: white;
+	padding:0px;
+	border-style: solid;
+}
+
+h2
+{	
+	color: white;
+	font-size: 140%;
+	text-align: center;
+}
+
+fieldset
+{
+	border:5px inset rgb(255,255,180);
+	background-color:white;
+	margin:10px 10px 10px 0px; 
+	padding:10px;
+	opacity: 0.8;
+}

@@ -1,0 +1,86 @@
+body
+{
+        background-image: url("background.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+}
+
+form
+{
+	opacity: 0.9;
+}
+
+fieldset
+{
+	border:5px inset rgb(255,255,180);
+	background-color:white;
+	margin:10px 10px 10px 0px; padding:10px;
+}
+
+
+#form1        
+{
+	width: 1100px;
+	float: center;
+	font-size: 18px;
+	padding-left: 180px;
+}
+
+
+
+
+fieldset legend
+{
+	color:black;
+	font-weight: bold;
+	font-style: italic;
+	text-align:left;
+	font-size: 20px;
+}
+
+h1
+{
+	font-size: 40px;
+	color: black;
+	margin: 15px;
+}
+
+textarea
+{
+	width: 950px;
+}
+
+button
+{
+	display: block;
+        margin-left: auto;
+        margin-right: auto;
+	border-radius:10px;
+}
+
+footer
+{
+	background-color: grey;
+	color: white;
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 60%;
+	text-align: center;
+	padding: 10px;
+}
+
+a.contact
+{
+	font-size: 120%;
+	border:4px inset rgb(255,255,255);
+	background-color: white;
+	padding:0px;
+	border-style: solid;
+}
+
+h2
+{	
+	color: white;
+	font-size: 140%;
+	text-align: center;
+}
+
